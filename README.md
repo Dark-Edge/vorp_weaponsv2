@@ -1,3 +1,6 @@
+#INFORMATIONS
+my fork of vorp_weaponsv2 with DB problem for saving weapon customisation fixed and camera added to the customisation menu
+
 # vorp_weaponsv2
 vorp_weaponsv2 aka syn weapons
 CRAFT AND SELL weapons and ammo 
